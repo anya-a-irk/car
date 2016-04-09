@@ -3,7 +3,7 @@
 Arduino car project with remote controls.
 Using [AFMotor library](https://github.com/adafruit/Adafruit-Motor-Shield-library) for controlling motors
 
-![working car gif >10MB, github doesn't support html5 video :()](https://github.com/anya-a-irk/car/raw/master/gif.gif)
+[![youtube test drive video](https://img.youtube.com/vi/wXmuz_UJH7o/0.jpg)](https://www.youtube.com/watch?v=wXmuz_UJH7o)
 
 ## motors_forward
 
